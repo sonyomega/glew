@@ -3,4 +3,5 @@ src/*.o
 src/*.pic_o
 lib/*
 glew.pc
+glewmx.pc
 tmp/
